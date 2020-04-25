@@ -1,0 +1,1 @@
+const String nickFury = "assets/images/nickFury.jpg";
